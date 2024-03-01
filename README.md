@@ -2,6 +2,8 @@
 Esta ferramenta tem como principal objetivo processar o arquivo 'result.json' gerado pela avaliação do Magika e exibir de forma internativa na web.
 
 # ⚠ Pré-requisito
+Projeto: https://github.com/google/magika
+
 Arquivo "result.json"
 
 # 📝 Artigo - Como utilizar o Magika?
