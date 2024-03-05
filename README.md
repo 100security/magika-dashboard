@@ -6,7 +6,7 @@ Project: https://github.com/google/magika
 
 File "result.json"
 
-# 📝 Article - How to use Magika? (PT-BR)
+# 📝 Article - How to use Magika?
 www.100security.com.br/magika
 
 # ▶ Execution
